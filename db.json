@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "name": "Anthony Hermann-McLaughlin",
+      "id": 1
+    },
+    {
+      "name": "Marshall Mertz-Marvin",
+      "id": 2
+    },
+    {
+      "name": "Ted Weber",
+      "id": 3
+    },
+    {
+      "name": "Daniel Quigley",
+      "id": 4
+    },
+    {
+      "name": "Blanca Simonis",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Electronic Steel Gloves",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Metal Hat",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5947785366994944",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1791066627899392",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5580021980725248",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1891645180084224",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5475568795516928",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3364496691167232",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8513660815147008",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4075285718761472",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5578399670075392",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6503155279855616",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8527235059286016",
+      "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=167006932303872",
+      "id": 12
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=702881497874432",
+      "id": 13
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1976281226805248",
+      "id": 14
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5350981128683520",
+      "id": 15
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6467879488716800",
+      "id": 16
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2550147347120128",
+      "id": 17
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3809082255343616",
+      "id": 18
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8286692419043328",
+      "id": 19
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1348288930381824",
+      "id": 20
+    }
+  ]
+}
